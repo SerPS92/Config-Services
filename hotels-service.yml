@@ -3,7 +3,7 @@ spring:
     name: hotels-service
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost/hotelApp
+    url: jdbc:mysql://localhost/flightApp
     username: root
     password:
 
